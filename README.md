@@ -1,5 +1,5 @@
 <div style="display: flex; margin-bottom: 1rem; font-size: 24px">
-  <img src="public/assets/Savepoint_Logo.png" width="120">
+  <img src="app/public/assets/Savepoint_Logo.png" width="120">
   <h1>SavePoint</h1>
 </div>
 
